@@ -3,7 +3,7 @@
 
 プログラムの説明
 
-boki
+boki \n
 簿記3級試験用の一問一答式のアプリです。
 
 CreateQuestion
