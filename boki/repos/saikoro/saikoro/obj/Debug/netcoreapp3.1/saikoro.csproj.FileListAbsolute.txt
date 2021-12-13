@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\saikoro\saikoro\bin\Debug\netcoreapp3.1\saikoro.exe
+C:\Users\Owner\source\repos\saikoro\saikoro\bin\Debug\netcoreapp3.1\saikoro.deps.json
+C:\Users\Owner\source\repos\saikoro\saikoro\bin\Debug\netcoreapp3.1\saikoro.runtimeconfig.json
+C:\Users\Owner\source\repos\saikoro\saikoro\bin\Debug\netcoreapp3.1\saikoro.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\saikoro\saikoro\bin\Debug\netcoreapp3.1\saikoro.dll
+C:\Users\Owner\source\repos\saikoro\saikoro\bin\Debug\netcoreapp3.1\saikoro.pdb
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.AssemblyInfo.cs
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.dll
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.pdb
+C:\Users\Owner\source\repos\saikoro\saikoro\obj\Debug\netcoreapp3.1\saikoro.genruntimeconfig.cache

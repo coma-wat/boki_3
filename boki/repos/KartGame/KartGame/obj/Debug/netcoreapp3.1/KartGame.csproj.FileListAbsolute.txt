@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\KartGame\KartGame\bin\Debug\netcoreapp3.1\KartGame.exe
+C:\Users\Owner\source\repos\KartGame\KartGame\bin\Debug\netcoreapp3.1\KartGame.deps.json
+C:\Users\Owner\source\repos\KartGame\KartGame\bin\Debug\netcoreapp3.1\KartGame.runtimeconfig.json
+C:\Users\Owner\source\repos\KartGame\KartGame\bin\Debug\netcoreapp3.1\KartGame.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\KartGame\KartGame\bin\Debug\netcoreapp3.1\KartGame.dll
+C:\Users\Owner\source\repos\KartGame\KartGame\bin\Debug\netcoreapp3.1\KartGame.pdb
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.AssemblyInfo.cs
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.dll
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.pdb
+C:\Users\Owner\source\repos\KartGame\KartGame\obj\Debug\netcoreapp3.1\KartGame.genruntimeconfig.cache

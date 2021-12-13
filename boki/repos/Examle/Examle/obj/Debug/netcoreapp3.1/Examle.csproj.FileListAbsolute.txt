@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Examle\Examle\bin\Debug\netcoreapp3.1\Examle.exe
+C:\Users\Owner\source\repos\Examle\Examle\bin\Debug\netcoreapp3.1\Examle.deps.json
+C:\Users\Owner\source\repos\Examle\Examle\bin\Debug\netcoreapp3.1\Examle.runtimeconfig.json
+C:\Users\Owner\source\repos\Examle\Examle\bin\Debug\netcoreapp3.1\Examle.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Examle\Examle\bin\Debug\netcoreapp3.1\Examle.dll
+C:\Users\Owner\source\repos\Examle\Examle\bin\Debug\netcoreapp3.1\Examle.pdb
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.dll
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.pdb
+C:\Users\Owner\source\repos\Examle\Examle\obj\Debug\netcoreapp3.1\Examle.genruntimeconfig.cache

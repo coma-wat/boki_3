@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\kayoubi\kayoubi\bin\Debug\netcoreapp3.1\kayoubi.exe
+C:\Users\Owner\source\repos\kayoubi\kayoubi\bin\Debug\netcoreapp3.1\kayoubi.deps.json
+C:\Users\Owner\source\repos\kayoubi\kayoubi\bin\Debug\netcoreapp3.1\kayoubi.runtimeconfig.json
+C:\Users\Owner\source\repos\kayoubi\kayoubi\bin\Debug\netcoreapp3.1\kayoubi.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\kayoubi\kayoubi\bin\Debug\netcoreapp3.1\kayoubi.dll
+C:\Users\Owner\source\repos\kayoubi\kayoubi\bin\Debug\netcoreapp3.1\kayoubi.pdb
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.AssemblyInfo.cs
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.dll
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.pdb
+C:\Users\Owner\source\repos\kayoubi\kayoubi\obj\Debug\netcoreapp3.1\kayoubi.genruntimeconfig.cache

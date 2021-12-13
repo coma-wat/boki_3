@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\DrawApp\DrawApp\bin\Debug\DrawApp.exe.config
+C:\Users\Owner\source\repos\DrawApp\DrawApp\bin\Debug\DrawApp.exe
+C:\Users\Owner\source\repos\DrawApp\DrawApp\bin\Debug\DrawApp.pdb
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.Form1.resources
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.Properties.Resources.resources
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.exe
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.pdb
+C:\Users\Owner\source\repos\DrawApp\DrawApp\obj\Debug\DrawApp.Pallet.resources

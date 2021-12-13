@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\jyanken\jyanken\bin\Debug\netcoreapp3.1\jyanken.exe
+C:\Users\Owner\source\repos\jyanken\jyanken\bin\Debug\netcoreapp3.1\jyanken.deps.json
+C:\Users\Owner\source\repos\jyanken\jyanken\bin\Debug\netcoreapp3.1\jyanken.runtimeconfig.json
+C:\Users\Owner\source\repos\jyanken\jyanken\bin\Debug\netcoreapp3.1\jyanken.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\jyanken\jyanken\bin\Debug\netcoreapp3.1\jyanken.dll
+C:\Users\Owner\source\repos\jyanken\jyanken\bin\Debug\netcoreapp3.1\jyanken.pdb
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.AssemblyInfo.cs
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.dll
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.pdb
+C:\Users\Owner\source\repos\jyanken\jyanken\obj\Debug\netcoreapp3.1\jyanken.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\bin\Debug\jyanken mvsm.exe.config
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\bin\Debug\jyanken mvsm.exe
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\bin\Debug\jyanken mvsm.pdb
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\obj\Debug\jyanken mvsm.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\obj\Debug\jyanken_mvsm.Form1.resources
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\obj\Debug\jyanken_mvsm.Properties.Resources.resources
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\obj\Debug\jyanken mvsm.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\obj\Debug\jyanken mvsm.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\obj\Debug\jyanken mvsm.exe
+C:\Users\Owner\source\repos\jyanken mvsm\jyanken mvsm\obj\Debug\jyanken mvsm.pdb

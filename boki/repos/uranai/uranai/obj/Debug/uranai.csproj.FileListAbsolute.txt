@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\uranai\uranai\bin\Debug\uranai.exe.config
+C:\Users\Owner\source\repos\uranai\uranai\bin\Debug\uranai.exe
+C:\Users\Owner\source\repos\uranai\uranai\bin\Debug\uranai.pdb
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.Form1.resources
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.Properties.Resources.resources
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.exe
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.pdb
+C:\Users\Owner\source\repos\uranai\uranai\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\uranai\uranai\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\source\repos\uranai\uranai\obj\Debug\uranai.csproj.CopyComplete

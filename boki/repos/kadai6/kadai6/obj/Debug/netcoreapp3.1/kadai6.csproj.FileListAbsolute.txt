@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\kadai6\kadai6\bin\Debug\netcoreapp3.1\kadai6.exe
+C:\Users\Owner\source\repos\kadai6\kadai6\bin\Debug\netcoreapp3.1\kadai6.deps.json
+C:\Users\Owner\source\repos\kadai6\kadai6\bin\Debug\netcoreapp3.1\kadai6.runtimeconfig.json
+C:\Users\Owner\source\repos\kadai6\kadai6\bin\Debug\netcoreapp3.1\kadai6.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\kadai6\kadai6\bin\Debug\netcoreapp3.1\kadai6.dll
+C:\Users\Owner\source\repos\kadai6\kadai6\bin\Debug\netcoreapp3.1\kadai6.pdb
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.AssemblyInfo.cs
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.dll
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.pdb
+C:\Users\Owner\source\repos\kadai6\kadai6\obj\Debug\netcoreapp3.1\kadai6.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Book Management App\Book Management App\bin\Debug\Book Management App.exe.config
+C:\Users\Owner\source\repos\Book Management App\Book Management App\bin\Debug\Book Management App.exe
+C:\Users\Owner\source\repos\Book Management App\Book Management App\bin\Debug\Book Management App.pdb
+C:\Users\Owner\source\repos\Book Management App\Book Management App\bin\Debug\System.Data.SQLite.dll
+C:\Users\Owner\source\repos\Book Management App\Book Management App\bin\Debug\System.Data.SQLite.xml
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book Management App.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book_Management_App.BookData.resources
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book_Management_App.Form1.resources
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book_Management_App.Properties.Resources.resources
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book Management App.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book Management App.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book Management App.csproj.CopyComplete
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book Management App.exe
+C:\Users\Owner\source\repos\Book Management App\Book Management App\obj\Debug\Book Management App.pdb

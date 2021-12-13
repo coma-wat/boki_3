@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\omikuji\omikuji\bin\Debug\omikuji.exe.config
+C:\Users\Owner\source\repos\omikuji\omikuji\bin\Debug\omikuji.exe
+C:\Users\Owner\source\repos\omikuji\omikuji\bin\Debug\omikuji.pdb
+C:\Users\Owner\source\repos\omikuji\omikuji\obj\Debug\omikuji.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\omikuji\omikuji\obj\Debug\omikuji.Form1.resources
+C:\Users\Owner\source\repos\omikuji\omikuji\obj\Debug\omikuji.Properties.Resources.resources
+C:\Users\Owner\source\repos\omikuji\omikuji\obj\Debug\omikuji.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\omikuji\omikuji\obj\Debug\omikuji.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\omikuji\omikuji\obj\Debug\omikuji.exe
+C:\Users\Owner\source\repos\omikuji\omikuji\obj\Debug\omikuji.pdb

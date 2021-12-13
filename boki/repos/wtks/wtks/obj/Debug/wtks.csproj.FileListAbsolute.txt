@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\wtks\wtks\bin\Debug\wtks.exe.config
+C:\Users\Owner\source\repos\wtks\wtks\bin\Debug\wtks.exe
+C:\Users\Owner\source\repos\wtks\wtks\bin\Debug\wtks.pdb
+C:\Users\Owner\source\repos\wtks\wtks\obj\Debug\wtks.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\wtks\wtks\obj\Debug\wtks.Form1.resources
+C:\Users\Owner\source\repos\wtks\wtks\obj\Debug\wtks.Properties.Resources.resources
+C:\Users\Owner\source\repos\wtks\wtks\obj\Debug\wtks.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\wtks\wtks\obj\Debug\wtks.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\wtks\wtks\obj\Debug\wtks.exe
+C:\Users\Owner\source\repos\wtks\wtks\obj\Debug\wtks.pdb

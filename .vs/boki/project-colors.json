@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bea8a1f-409c-4e97-8019-27f2e0d84ada": {
+      "ProjectGuid": "5bea8a1f-409c-4e97-8019-27f2e0d84ada",
+      "DisplayName": "boki",
+      "ColorIndex": 0
+    },
+    "0af00a44-85c7-4405-b3bc-b6cb54a4f5c5": {
+      "ProjectGuid": "0af00a44-85c7-4405-b3bc-b6cb54a4f5c5",
+      "DisplayName": "CreateQuestion",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

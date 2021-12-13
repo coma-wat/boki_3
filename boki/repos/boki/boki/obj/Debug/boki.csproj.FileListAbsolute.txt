@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\boki\boki\bin\Debug\boki.exe.config
+C:\Users\Owner\source\repos\boki\boki\bin\Debug\boki.exe
+C:\Users\Owner\source\repos\boki\boki\bin\Debug\boki.pdb
+C:\Users\Owner\source\repos\boki\boki\obj\Debug\boki.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\boki\boki\obj\Debug\boki.Form1.resources
+C:\Users\Owner\source\repos\boki\boki\obj\Debug\boki.Properties.Resources.resources
+C:\Users\Owner\source\repos\boki\boki\obj\Debug\boki.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\boki\boki\obj\Debug\boki.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\boki\boki\obj\Debug\boki.exe
+C:\Users\Owner\source\repos\boki\boki\obj\Debug\boki.pdb

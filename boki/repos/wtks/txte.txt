@@ -1,0 +1,11 @@
+var sqlConnectionSb = new SQLiteConnectionStringBuilder { DataSource = "data.db" };
+            var cn = new SQLiteConnection(sqlConnectionSb.ToString());
+          
+            cn.Open();
+
+            var cmd = new SQLiteCommand(cn);
+
+            cmd.CommandText = "INSERT INTO 書籍一覧 VALUES(" + "'1','c#超入門','北村愛美','参考書')";
+            cmd.ExecuteNonQuery();
+
+            cn.Close();

@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\rennsyu\rennsyu\bin\Debug\rennsyu.exe.config
+C:\Users\Owner\source\repos\rennsyu\rennsyu\bin\Debug\rennsyu.exe
+C:\Users\Owner\source\repos\rennsyu\rennsyu\bin\Debug\rennsyu.pdb
+C:\Users\Owner\source\repos\rennsyu\rennsyu\obj\Debug\rennsyu.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\rennsyu\rennsyu\obj\Debug\rennsyu.Form1.resources
+C:\Users\Owner\source\repos\rennsyu\rennsyu\obj\Debug\rennsyu.Properties.Resources.resources
+C:\Users\Owner\source\repos\rennsyu\rennsyu\obj\Debug\rennsyu.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\rennsyu\rennsyu\obj\Debug\rennsyu.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\rennsyu\rennsyu\obj\Debug\rennsyu.exe
+C:\Users\Owner\source\repos\rennsyu\rennsyu\obj\Debug\rennsyu.pdb

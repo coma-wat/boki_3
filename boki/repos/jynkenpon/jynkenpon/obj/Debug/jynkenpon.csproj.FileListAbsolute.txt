@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\bin\Debug\jynkenpon.exe.config
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\bin\Debug\jynkenpon.exe
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\bin\Debug\jynkenpon.pdb
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\obj\Debug\jynkenpon.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\obj\Debug\jynkenpon.Form1.resources
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\obj\Debug\jynkenpon.Properties.Resources.resources
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\obj\Debug\jynkenpon.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\obj\Debug\jynkenpon.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\obj\Debug\jynkenpon.exe
+C:\Users\Owner\source\repos\jynkenpon\jynkenpon\obj\Debug\jynkenpon.pdb
