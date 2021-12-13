@@ -3,9 +3,11 @@
 
 プログラムの説明
 
-boki \r\n
+boki
+
 簿記3級試験用の一問一答式のアプリです。
 
-CreateQuestion
+CreateQuestion 
+
 「boki」の出題用データの編集用アプリです。
 一覧に「boki.csv」からレコードを読み込んで表示し、csvファイルの編集ができます。
