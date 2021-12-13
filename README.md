@@ -11,3 +11,9 @@ CreateQuestion
 
 「boki」の出題用データの編集用アプリです。
 一覧に「boki.csv」からレコードを読み込んで表示し、csvファイルの編集ができます。
+
+「boki」、「CreateQuestion」の実行ファイルは
+
+/boki/bin/Debug/
+
+にあります。
