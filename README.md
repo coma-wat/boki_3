@@ -13,8 +13,14 @@
 「boki」の出題用データの編集用アプリです。
 一覧に「boki.csv」からレコードを読み込んで表示し、csvファイルの編集ができます。
 
-「boki」、「CreateQuestion」の実行ファイルは
+「boki」、「CreateQuestion」の実行ファイル、「boki.csv」は
 
 /boki/bin/Debug/
 
 にあります。
+
+アプリの操作方法は
+
+/boki/bin/Debug/
+
+内の「簿記3級操作マニュアル 」「問題作成マニュアル」を参照してください。
