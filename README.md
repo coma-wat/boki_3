@@ -15,12 +15,12 @@
 
 「boki」、「CreateQuestion」の実行ファイル、「boki.csv」は
 
-/boki/bin/Debug/
+/Release
 
 にあります。
 
 アプリの操作方法は
 
-/boki/bin/Debug/
+/Release
 
 内の「簿記3級操作マニュアル 」「問題作成マニュアル」を参照してください。
