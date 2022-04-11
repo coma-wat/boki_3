@@ -40,3 +40,16 @@ D:\Source\boki_ver.0018\boki\obj\Release\boki.csproj.GenerateResource.cache
 D:\Source\boki_ver.0018\boki\obj\Release\boki.csproj.CoreCompileInputs.cache
 D:\Source\boki_ver.0018\boki\obj\Release\boki.exe
 D:\Source\boki_ver.0018\boki\obj\Release\boki.pdb
+D:\Source\boki_3\boki\bin\Release\boki.exe.config
+D:\Source\boki_3\boki\bin\Release\boki.exe
+D:\Source\boki_3\boki\bin\Release\boki.pdb
+D:\Source\boki_3\boki\obj\Release\boki.csproj.AssemblyReference.cache
+D:\Source\boki_3\boki\obj\Release\boki.Form1.resources
+D:\Source\boki_3\boki\obj\Release\boki.Properties.Resources.resources
+D:\Source\boki_3\boki\obj\Release\boki.csproj.GenerateResource.cache
+D:\Source\boki_3\boki\obj\Release\boki.csproj.CoreCompileInputs.cache
+D:\Source\boki_3\boki\obj\Release\boki.exe
+D:\Source\boki_3\boki\obj\Release\boki.pdb
+D:\Source\boki_3\Release\boki.exe.config
+D:\Source\boki_3\Release\boki.exe
+D:\Source\boki_3\Release\boki.pdb

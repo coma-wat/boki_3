@@ -21,3 +21,16 @@ C:\Users\OWNER\source\repos\boki_ver.0017\CreateQuestion\obj\Release\CreateQuest
 C:\Users\OWNER\source\repos\boki_ver.0017\boki\bin\Release\CreateQuestion.exe.config
 C:\Users\OWNER\source\repos\boki_ver.0017\boki\bin\Release\CreateQuestion.exe
 C:\Users\OWNER\source\repos\boki_ver.0017\boki\bin\Release\CreateQuestion.pdb
+D:\Source\boki_3\boki\bin\Release\CreateQuestion.exe.config
+D:\Source\boki_3\boki\bin\Release\CreateQuestion.exe
+D:\Source\boki_3\boki\bin\Release\CreateQuestion.pdb
+D:\Source\boki_3\CreateQuestion\obj\Release\CreateQuestion.csproj.AssemblyReference.cache
+D:\Source\boki_3\CreateQuestion\obj\Release\CreateQuestion.Form2.resources
+D:\Source\boki_3\CreateQuestion\obj\Release\CreateQuestion.Properties.Resources.resources
+D:\Source\boki_3\CreateQuestion\obj\Release\CreateQuestion.csproj.GenerateResource.cache
+D:\Source\boki_3\CreateQuestion\obj\Release\CreateQuestion.csproj.CoreCompileInputs.cache
+D:\Source\boki_3\CreateQuestion\obj\Release\CreateQuestion.exe
+D:\Source\boki_3\CreateQuestion\obj\Release\CreateQuestion.pdb
+D:\Source\boki_3\Release\CreateQuestion.exe.config
+D:\Source\boki_3\Release\CreateQuestion.exe
+D:\Source\boki_3\Release\CreateQuestion.pdb
