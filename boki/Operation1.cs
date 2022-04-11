@@ -161,8 +161,10 @@ namespace boki
             // success = false のときエラーメッセージを表示、success = true かつ空欄でないとき、カンマを挿入してテキストボックスに表示
             if (!success)
             {
-                MessageBox.Show("金額は半角数字で入力してください");
-                tb.ForeColor = Color.Red;                           // 数字以外のときは文字色を赤に
+                tb.ForeColor = Color.Red;                               // 数字以外のときは文字色を赤に
+                MessageBox.Show("金額は半角数字で入力してください");    // エラーメッセージを表示
+                tb.Clear();                                             // テキストボックス内の文字を消去
+                tb.ForeColor = Color.Black;                             // 文字色を黒に戻す
             }
             else if (debmoTemp != "")
             {

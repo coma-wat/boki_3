@@ -16,7 +16,7 @@ namespace CreateQuestion
     {
         DataTable dt = new DataTable();     // csvファイルの内容を格納するデータテーブル
         string fileName = @"boki.csv";      // csvファイルのパス
-        Operation2 op;                       // 各種操作を利用するための Operation クラス(Form2用)
+        Operation2 op;                      // 各種操作を利用するための Operation クラス(Form2用)
 
         public Form2()
         {
@@ -189,7 +189,7 @@ namespace CreateQuestion
             op.CommaInsert(qCremoBox3);
         }
 
-        // フォーカスを外すとテキストボックス内のデータを対応セルにコピー
+        // フォーカスを外すとテキストボックス内のデータを一覧表の対応セルにコピー
         private void QuestionBoxValidated(object sender, EventArgs e)
         {
             op = new Operation2();
@@ -259,13 +259,21 @@ namespace CreateQuestion
         private void QDebmoBox1Validated(object sender, EventArgs e)
         {
             op = new Operation2();
-            op.InsertDataGridView(dataGridView1, idBox, qDebmoBox1, 10);
+            bool check = op.CheckNumbers(qDebmoBox1);
+            if (check)
+            {
+                op.InsertDataGridView(dataGridView1, idBox, qDebmoBox1, 10);
+            }
         }
 
         private void QDebmoBox2Validated(object sender, EventArgs e)
         {
             op = new Operation2();
-            op.InsertDataGridView(dataGridView1, idBox, qDebmoBox2, 14);
+            bool check = op.CheckNumbers(qDebmoBox2);
+            if (check)
+            {
+                op.InsertDataGridView(dataGridView1, idBox, qDebmoBox2, 14);
+            }
         }
 
         private void QDebmoBox3Validated(object sender, EventArgs e)

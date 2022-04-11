@@ -51,3 +51,14 @@ C:\Users\OWNER\source\repos\boki_ver.0014\CreateQuestion\obj\Debug\CreateQuestio
 C:\Users\OWNER\source\repos\boki_ver.0014\CreateQuestion\obj\Debug\CreateQuestion.csproj.CoreCompileInputs.cache
 C:\Users\OWNER\source\repos\boki_ver.0014\CreateQuestion\obj\Debug\CreateQuestion.exe
 C:\Users\OWNER\source\repos\boki_ver.0014\CreateQuestion\obj\Debug\CreateQuestion.pdb
+D:\Source\boki_3\boki\bin\Debug\CreateQuestion.exe.config
+D:\Source\boki_3\boki\bin\Debug\CreateQuestion.exe
+D:\Source\boki_3\boki\bin\Debug\CreateQuestion.pdb
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.csproj.AssemblyReference.cache
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.csproj.SuggestedBindingRedirects.cache
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.Form2.resources
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.Properties.Resources.resources
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.csproj.GenerateResource.cache
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.csproj.CoreCompileInputs.cache
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.exe
+D:\Source\boki_3\CreateQuestion\obj\Debug\CreateQuestion.pdb

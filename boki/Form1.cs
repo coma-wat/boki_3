@@ -255,9 +255,9 @@ namespace boki
         // ×ボタンをクリックすると対応した金額欄をクリア
         private void Debmo1ClearButtonClicked(object sender, EventArgs e)
         {
+            debmoBox1.Focus();
             debmoBox1.Clear();
             debmoBox1.ForeColor = Color.Black;
-            debmoBox1.Focus();
         }
 
         private void Debmo2ClearButtonClicked(object sender, EventArgs e)
@@ -293,6 +293,14 @@ namespace boki
             cremoBox3.Clear();
             cremoBox3.ForeColor = Color.Black;
             cremoBox3.Focus();
+        }
+
+        private void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(e.KeyChar == (char)Keys.Enter)
+            {
+                e.Handled = true;
+            }
         }
     }
 }
